@@ -7,11 +7,16 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-The purpose of this app is to help people meet their nutrional goals. The user will input what food they have eaten that day and pull nutrional information 
+The purpose of this app is to help people meet their nutrional goals. The user will input what food they have eaten that day and pull nutrional information from a database. The app will then make recommendations based on what nutrients you are deficient in. 
 ### Features
-Include Features here
+-User Signup/logins
+-Calorie and macro/micro nutrient Tracking
+-Food recommendations to make up for nutrients you are lacking.
+-
 ### Technologies
-Include Technologies here
+-Java
+-Thymeleaf
+-MySQL
 ### What I'll Have to Learn
 Include what you will need to learn here
 ### Project Tracker
