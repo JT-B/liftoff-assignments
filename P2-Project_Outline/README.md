@@ -7,7 +7,7 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+The purpose of this app is to help people meet their nutrional goals. The user will input what food they have eaten that day and pull nutrional information 
 ### Features
 Include Features here
 ### Technologies
