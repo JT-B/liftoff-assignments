@@ -1,3 +1,4 @@
+
 # Project Presentation
 We want to you to create a set of presentation slides summarizing your project.
 
@@ -7,4 +8,4 @@ We want to you to create a set of presentation slides summarizing your project.
 ## Submission Instructions
 
 ### Presentation
-Upload a .PDF of your presentation here for review.
+[nutrition-app-presentation.pdf](https://github.com/JT-B/liftoff-assignments/files/6556100/nutrition-app-presentation.pdf)
